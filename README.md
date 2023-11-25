@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hello, I'm [Your Name]
 
-<!--
-**nirajcs/Nirajcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- MERN stack developer
+- Self-learner passionate about exploring new technologies
+- BSc Computer Science Graduate
+- Actively seeking opportunities in MERN stack development
 
-Here are some ideas to get you started:
+## Technologies I Work With
+- MongoDB
+- Express.js
+- Node.js
+- React.js
+- Tailwind CSS
+- Bootstrap
+- JSON Web Token (JWT)
+- Socket.IO
+- Figma
+- Firebase
+- Git
+- JavaScript
+- NGINX
+- Postman
+- AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 🌐 [Project Name](link) - Brief description
+- 🚀 [Project Name](link) - Brief description
+- 💻 [Project Name](link) - Brief description
+
+## Get In Touch
+- LinkedIn: [Your LinkedIn Profile](link)
+- Portfolio: [Your Portfolio Website](link)
+- Email: your.email@example.com
+
+Let's connect and collaborate on exciting projects together!
